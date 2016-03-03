@@ -1,0 +1,39 @@
+body {
+  font: verdana;
+  color: white;
+  background-image: url(imageAssests/background.jpg);
+}
+
+.profile_info {
+  text-align: center;
+}
+
+.profile_info p img {
+  width: 301px;
+  height: 421px;
+  align-items: center;
+  display: inline-block;
+}
+
+.social_networks {
+  align-items: center;
+  border: 10px red;
+}
+
+.social_networks p a{
+  justify-content: center;
+  border: 10px red;
+}
+
+.skills {
+  justify-content: center;
+}
+
+.dev_skills img {
+  align-content: center;
+}
+
+.designer_skills {
+  display: inline-block;
+  margin-top: 15px;
+}
